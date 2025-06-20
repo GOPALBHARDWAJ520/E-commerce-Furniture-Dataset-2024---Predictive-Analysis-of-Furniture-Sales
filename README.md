@@ -1,7 +1,7 @@
-# E-commerce Furniture Dataset 2024 - Sales Prediction Project
+# E-commerce Furniture Dataset  - Sales Prediction Project
 
 ## 📅 Project Title:
-**E-commerce Furniture Dataset 2024 - Predictive Analysis of Furniture Sales**
+**E-commerce Furniture Dataset  - Predictive Analysis of Furniture Sales**
 
 ## 📚 Overview
 This project focuses on predicting the number of furniture items sold based on their features such as price, title, and tag information. The dataset, sourced from AliExpress, contains 2,000 product entries and provides a solid foundation for applying data preprocessing, exploratory data analysis (EDA), and machine learning techniques.
